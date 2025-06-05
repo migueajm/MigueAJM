@@ -9,13 +9,13 @@
 ### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
 | language | Framework or Library | Environment |
 | ------------| ----------------------------------------- | --------- |
-| 🟨 JavaScript| Nodejs, Express JS, JQuery | Web application |
+| 🟨 JavaScript| Nodejs, Express JS, JQuery, Vue, React | Web application |
 | 🟦 PHP | Symfony & Laravel | Web application |
 | 🟦 Dart | Flutter | Multiplatform (android, ios, win, macos & web )|
-| 🟦 TypeScriopt |React, Angular & IONIC| Web application |
+| 🟦 TypeScriopt |React, Vue, Angular & IONIC| Web application |
 | ⬛️ SQL | PostgreSQL, MySQL, SQLite | Storage |
 
 ### Passionate about creating efficient and user-centric applications, with a focus on continuous improvement and adopting best development practices. Seeking to contribute my skills in a dynamic environment to drive the success of the team and projects.
 
+### <a href="https://www.linkedin.com/in/migueajm/" target="_blank">@MigueAJM</a>
 > Todo bien, todo correcto y yo que me alegro - AuronPlay
-> Vamos carajo... - <a href="https://www.linkedin.com/in/migueajm/" target="_blank">@MigueAJM</a>
