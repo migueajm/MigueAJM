@@ -6,7 +6,7 @@
 | 💬 Ask me about Backend and Frontend                          | **<a href="https://www.kurigage.com/" target="_blank">KURIGAGE</a>** as **Web developer**            |
 | 💻 I’m currently working. As **Software developer**           | **<a href="https://www.crodecelaya.tecnm.mx/" target="_blank">CRODE CELAYA</a>** as **Web developer** |
 
-### Software Developer with over 3 years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
+### Software Developer with over 4+ years of experience in designing and developing web and mobile applications. Specialized in technologies such as: 
 | language | Framework or Library | Environment |
 | ------------| ----------------------------------------- | --------- |
 | 🟨 JavaScript| Nodejs, Express JS, JQuery, Vue, React | Web application |
