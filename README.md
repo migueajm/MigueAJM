@@ -1,4 +1,4 @@
-# Hi there 👋 I´m Migue | <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | <a href="https://migueajm.github.io/migueljimenezweb/" target="_blank">migueljimenezweb</a> 🚀🔥💻
+# Hi there 👋 I´m Migue | <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | <a href="https://migueajm.github.io/web/" target="_blank">Portfolio</a> 🚀🔥💻
 | **Currently**                                                 | **I have worked at**                                                      |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 📫 How to reach me: <a href="https://twitter.com/migueajm" target="_blank">@MigueAJM</a> | **<a href="https://www.infoexpo.com.mx/home/" target="_blank">INFOEXPO</a>** as **Developer Senior**    |
